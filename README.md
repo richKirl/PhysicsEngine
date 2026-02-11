@@ -12,6 +12,7 @@ the world its a physic, all what should be view in this it all physics component
 
 added infinity spawn entity, combatlog
 
+<img width="1272" height="716" alt="image" src="https://github.com/user-attachments/assets/23bb0b55-aee8-4ca0-a0ec-0f1f9da2d224" />
 
 
 
